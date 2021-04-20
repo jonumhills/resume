@@ -1,0 +1,20 @@
+{
+  "name": "manoj_resume",
+  "version": "1.0.0",
+  "description": "Manoj initial portfolio ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonumhills/resume.git"
+  },
+  "author": "manoj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonumhills/resume/issues"
+  },
+  "homepage": "https://github.com/jonumhills/resume#readme",
+  "dependencies": {}
+}
